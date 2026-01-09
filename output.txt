@@ -1,0 +1,1821 @@
+ 1  1  1  1 | N> Not found.
+ 2  1  1  1 | N> Not found.
+ 2  2  1  1 | N> Not found.
+ 2  2  2  1 | N> Not found.
+ 2  2  2  2 | N> Not found.
+ 3  1  1  1 | N> Not found.
+ 3  2  1  1 | N> Not found.
+ 3  2  2  1 | N> Not found.
+ 3  2  2  2 | Y> Is solvable.
+ 3  3  1  1 | N> Not found.
+ 3  3  2  1 | Y> Is solvable.
+ 3  3  2  2 | Y> Is solvable.
+ 3  3  3  1 | Y> Is solvable.
+ 3  3  3  2 | Y> Is solvable.
+ 3  3  3  3 | Y> Is solvable.
+ 4  1  1  1 | N> Not found.
+ 4  2  1  1 | N> Not found.
+ 4  2  2  1 | Y> Is solvable.
+ 4  2  2  2 | Y> Is solvable.
+ 4  3  1  1 | Y> Is solvable.
+ 4  3  2  1 | Y> Is solvable.
+ 4  3  2  2 | Y> Is solvable.
+ 4  3  3  1 | Y> Is solvable.
+ 4  3  3  2 | N> Not found.
+ 4  3  3  3 | Y> Is solvable.
+ 4  4  1  1 | Y> Is solvable.
+ 4  4  2  1 | Y> Is solvable.
+ 4  4  2  2 | Y> Is solvable.
+ 4  4  3  1 | Y> Is solvable.
+ 4  4  3  2 | Y> Is solvable.
+ 4  4  3  3 | Y> Is solvable.
+ 4  4  4  1 | Y> Is solvable.
+ 4  4  4  2 | Y> Is solvable.
+ 4  4  4  3 | Y> Is solvable.
+ 4  4  4  4 | Y> Is solvable.
+ 5  1  1  1 | N> Not found.
+ 5  2  1  1 | N> Not found.
+ 5  2  2  1 | Y> Is solvable.
+ 5  2  2  2 | Y> Is solvable.
+ 5  3  1  1 | Y> Is solvable.
+ 5  3  2  1 | Y> Is solvable.
+ 5  3  2  2 | Y> Is solvable.
+ 5  3  3  1 | Y> Is solvable.
+ 5  3  3  2 | Y> Is solvable.
+ 5  3  3  3 | Y> Is solvable.
+ 5  4  1  1 | Y> Is solvable.
+ 5  4  2  1 | Y> Is solvable.
+ 5  4  2  2 | Y> Is solvable.
+ 5  4  3  1 | Y> Is solvable.
+ 5  4  3  2 | Y> Is solvable.
+ 5  4  3  3 | Y> Is solvable.
+ 5  4  4  1 | Y> Is solvable.
+ 5  4  4  2 | Y> Is solvable.
+ 5  4  4  3 | Y> Is solvable.
+ 5  4  4  4 | Y> Is solvable.
+ 5  5  1  1 | Y> Is solvable.
+ 5  5  2  1 | Y> Is solvable.
+ 5  5  2  2 | Y> Is solvable.
+ 5  5  3  1 | N> Not found.
+ 5  5  3  2 | Y> Is solvable.
+ 5  5  3  3 | Y> Is solvable.
+ 5  5  4  1 | Y> Is solvable.
+ 5  5  4  2 | Y> Is solvable.
+ 5  5  4  3 | Y> Is solvable.
+ 5  5  4  4 | Y> Is solvable.
+ 5  5  5  1 | Y> Is solvable.
+ 5  5  5  2 | N> Not found.
+ 5  5  5  3 | N> Not found.
+ 5  5  5  4 | Y> Is solvable.
+ 5  5  5  5 | Y> Is solvable.
+ 6  1  1  1 | N> Not found.
+ 6  2  1  1 | Y> Is solvable.
+ 6  2  2  1 | Y> Is solvable.
+ 6  2  2  2 | N> Not found.
+ 6  3  1  1 | Y> Is solvable.
+ 6  3  2  1 | Y> Is solvable.
+ 6  3  2  2 | Y> Is solvable.
+ 6  3  3  1 | Y> Is solvable.
+ 6  3  3  2 | Y> Is solvable.
+ 6  3  3  3 | Y> Is solvable.
+ 6  4  1  1 | Y> Is solvable.
+ 6  4  2  1 | Y> Is solvable.
+ 6  4  2  2 | Y> Is solvable.
+ 6  4  3  1 | Y> Is solvable.
+ 6  4  3  2 | Y> Is solvable.
+ 6  4  3  3 | Y> Is solvable.
+ 6  4  4  1 | Y> Is solvable.
+ 6  4  4  2 | Y> Is solvable.
+ 6  4  4  3 | Y> Is solvable.
+ 6  4  4  4 | Y> Is solvable.
+ 6  5  1  1 | Y> Is solvable.
+ 6  5  2  1 | Y> Is solvable.
+ 6  5  2  2 | Y> Is solvable.
+ 6  5  3  1 | Y> Is solvable.
+ 6  5  3  2 | Y> Is solvable.
+ 6  5  3  3 | Y> Is solvable.
+ 6  5  4  1 | Y> Is solvable.
+ 6  5  4  2 | Y> Is solvable.
+ 6  5  4  3 | Y> Is solvable.
+ 6  5  4  4 | Y> Is solvable.
+ 6  5  5  1 | Y> Is solvable.
+ 6  5  5  2 | N> Not found.
+ 6  5  5  3 | Y> Is solvable.
+ 6  5  5  4 | Y> Is solvable.
+ 6  5  5  5 | Y> Is solvable.
+ 6  6  1  1 | Y> Is solvable.
+ 6  6  2  1 | Y> Is solvable.
+ 6  6  2  2 | Y> Is solvable.
+ 6  6  3  1 | Y> Is solvable.
+ 6  6  3  2 | Y> Is solvable.
+ 6  6  3  3 | Y> Is solvable.
+ 6  6  4  1 | Y> Is solvable.
+ 6  6  4  2 | Y> Is solvable.
+ 6  6  4  3 | Y> Is solvable.
+ 6  6  4  4 | N> Not found.
+ 6  6  5  1 | Y> Is solvable.
+ 6  6  5  2 | Y> Is solvable.
+ 6  6  5  3 | Y> Is solvable.
+ 6  6  5  4 | Y> Is solvable.
+ 6  6  5  5 | Y> Is solvable.
+ 6  6  6  1 | Y> Is solvable.
+ 6  6  6  2 | Y> Is solvable.
+ 6  6  6  3 | Y> Is solvable.
+ 6  6  6  4 | Y> Is solvable.
+ 6  6  6  5 | Y> Is solvable.
+ 6  6  6  6 | Y> Is solvable.
+ 7  1  1  1 | N> Not found.
+ 7  2  1  1 | Y> Is solvable.
+ 7  2  2  1 | Y> Is solvable.
+ 7  2  2  2 | Y> Is solvable.
+ 7  3  1  1 | Y> Is solvable.
+ 7  3  2  1 | Y> Is solvable.
+ 7  3  2  2 | Y> Is solvable.
+ 7  3  3  1 | Y> Is solvable.
+ 7  3  3  2 | Y> Is solvable.
+ 7  3  3  3 | Y> Is solvable.
+ 7  4  1  1 | Y> Is solvable.
+ 7  4  2  1 | Y> Is solvable.
+ 7  4  2  2 | Y> Is solvable.
+ 7  4  3  1 | Y> Is solvable.
+ 7  4  3  2 | Y> Is solvable.
+ 7  4  3  3 | Y> Is solvable.
+ 7  4  4  1 | Y> Is solvable.
+ 7  4  4  2 | Y> Is solvable.
+ 7  4  4  3 | Y> Is solvable.
+ 7  4  4  4 | Y> Is solvable.
+ 7  5  1  1 | Y> Is solvable.
+ 7  5  2  1 | Y> Is solvable.
+ 7  5  2  2 | Y> Is solvable.
+ 7  5  3  1 | Y> Is solvable.
+ 7  5  3  2 | Y> Is solvable.
+ 7  5  3  3 | Y> Is solvable.
+ 7  5  4  1 | Y> Is solvable.
+ 7  5  4  2 | Y> Is solvable.
+ 7  5  4  3 | Y> Is solvable.
+ 7  5  4  4 | Y> Is solvable.
+ 7  5  5  1 | N> Not found.
+ 7  5  5  2 | Y> Is solvable.
+ 7  5  5  3 | Y> Is solvable.
+ 7  5  5  4 | Y> Is solvable.
+ 7  5  5  5 | N> Not found.
+ 7  6  1  1 | N> Not found.
+ 7  6  2  1 | Y> Is solvable.
+ 7  6  2  2 | Y> Is solvable.
+ 7  6  3  1 | Y> Is solvable.
+ 7  6  3  2 | Y> Is solvable.
+ 7  6  3  3 | Y> Is solvable.
+ 7  6  4  1 | Y> Is solvable.
+ 7  6  4  2 | Y> Is solvable.
+ 7  6  4  3 | N> Not found.
+ 7  6  4  4 | N> Not found.
+ 7  6  5  1 | Y> Is solvable.
+ 7  6  5  2 | Y> Is solvable.
+ 7  6  5  3 | Y> Is solvable.
+ 7  6  5  4 | Y> Is solvable.
+ 7  6  5  5 | Y> Is solvable.
+ 7  6  6  1 | N> Not found.
+ 7  6  6  2 | Y> Is solvable.
+ 7  6  6  3 | Y> Is solvable.
+ 7  6  6  4 | Y> Is solvable.
+ 7  6  6  5 | Y> Is solvable.
+ 7  6  6  6 | N> Not found.
+ 7  7  1  1 | N> Not found.
+ 7  7  2  1 | Y> Is solvable.
+ 7  7  2  2 | Y> Is solvable.
+ 7  7  3  1 | Y> Is solvable.
+ 7  7  3  2 | Y> Is solvable.
+ 7  7  3  3 | Y> Is solvable.
+ 7  7  4  1 | Y> Is solvable.
+ 7  7  4  2 | Y> Is solvable.
+ 7  7  4  3 | Y> Is solvable.
+ 7  7  4  4 | Y> Is solvable.
+ 7  7  5  1 | N> Not found.
+ 7  7  5  2 | Y> Is solvable.
+ 7  7  5  3 | N> Not found.
+ 7  7  5  4 | Y> Is solvable.
+ 7  7  5  5 | Y> Is solvable.
+ 7  7  6  1 | N> Not found.
+ 7  7  6  2 | N> Not found.
+ 7  7  6  3 | Y> Is solvable.
+ 7  7  6  4 | Y> Is solvable.
+ 7  7  6  5 | Y> Is solvable.
+ 7  7  6  6 | N> Not found.
+ 7  7  7  1 | N> Not found.
+ 7  7  7  2 | N> Not found.
+ 7  7  7  3 | Y> Is solvable.
+ 7  7  7  4 | Y> Is solvable.
+ 7  7  7  5 | N> Not found.
+ 7  7  7  6 | N> Not found.
+ 7  7  7  7 | N> Not found.
+ 8  1  1  1 | Y> Is solvable.
+ 8  2  1  1 | Y> Is solvable.
+ 8  2  2  1 | Y> Is solvable.
+ 8  2  2  2 | Y> Is solvable.
+ 8  3  1  1 | Y> Is solvable.
+ 8  3  2  1 | Y> Is solvable.
+ 8  3  2  2 | Y> Is solvable.
+ 8  3  3  1 | Y> Is solvable.
+ 8  3  3  2 | Y> Is solvable.
+ 8  3  3  3 | Y> Is solvable.
+ 8  4  1  1 | Y> Is solvable.
+ 8  4  2  1 | Y> Is solvable.
+ 8  4  2  2 | Y> Is solvable.
+ 8  4  3  1 | Y> Is solvable.
+ 8  4  3  2 | Y> Is solvable.
+ 8  4  3  3 | Y> Is solvable.
+ 8  4  4  1 | Y> Is solvable.
+ 8  4  4  2 | Y> Is solvable.
+ 8  4  4  3 | Y> Is solvable.
+ 8  4  4  4 | Y> Is solvable.
+ 8  5  1  1 | Y> Is solvable.
+ 8  5  2  1 | Y> Is solvable.
+ 8  5  2  2 | Y> Is solvable.
+ 8  5  3  1 | Y> Is solvable.
+ 8  5  3  2 | Y> Is solvable.
+ 8  5  3  3 | N> Not found.
+ 8  5  4  1 | Y> Is solvable.
+ 8  5  4  2 | Y> Is solvable.
+ 8  5  4  3 | Y> Is solvable.
+ 8  5  4  4 | Y> Is solvable.
+ 8  5  5  1 | N> Not found.
+ 8  5  5  2 | Y> Is solvable.
+ 8  5  5  3 | Y> Is solvable.
+ 8  5  5  4 | Y> Is solvable.
+ 8  5  5  5 | N> Not found.
+ 8  6  1  1 | Y> Is solvable.
+ 8  6  2  1 | Y> Is solvable.
+ 8  6  2  2 | Y> Is solvable.
+ 8  6  3  1 | Y> Is solvable.
+ 8  6  3  2 | Y> Is solvable.
+ 8  6  3  3 | Y> Is solvable.
+ 8  6  4  1 | Y> Is solvable.
+ 8  6  4  2 | Y> Is solvable.
+ 8  6  4  3 | Y> Is solvable.
+ 8  6  4  4 | Y> Is solvable.
+ 8  6  5  1 | Y> Is solvable.
+ 8  6  5  2 | Y> Is solvable.
+ 8  6  5  3 | Y> Is solvable.
+ 8  6  5  4 | Y> Is solvable.
+ 8  6  5  5 | Y> Is solvable.
+ 8  6  6  1 | Y> Is solvable.
+ 8  6  6  2 | Y> Is solvable.
+ 8  6  6  3 | Y> Is solvable.
+ 8  6  6  4 | Y> Is solvable.
+ 8  6  6  5 | Y> Is solvable.
+ 8  6  6  6 | Y> Is solvable.
+ 8  7  1  1 | N> Not found.
+ 8  7  2  1 | Y> Is solvable.
+ 8  7  2  2 | Y> Is solvable.
+ 8  7  3  1 | Y> Is solvable.
+ 8  7  3  2 | Y> Is solvable.
+ 8  7  3  3 | Y> Is solvable.
+ 8  7  4  1 | Y> Is solvable.
+ 8  7  4  2 | Y> Is solvable.
+ 8  7  4  3 | Y> Is solvable.
+ 8  7  4  4 | Y> Is solvable.
+ 8  7  5  1 | Y> Is solvable.
+ 8  7  5  2 | Y> Is solvable.
+ 8  7  5  3 | Y> Is solvable.
+ 8  7  5  4 | Y> Is solvable.
+ 8  7  5  5 | Y> Is solvable.
+ 8  7  6  1 | N> Not found.
+ 8  7  6  2 | Y> Is solvable.
+ 8  7  6  3 | Y> Is solvable.
+ 8  7  6  4 | Y> Is solvable.
+ 8  7  6  5 | Y> Is solvable.
+ 8  7  6  6 | N> Not found.
+ 8  7  7  1 | N> Not found.
+ 8  7  7  2 | Y> Is solvable.
+ 8  7  7  3 | Y> Is solvable.
+ 8  7  7  4 | Y> Is solvable.
+ 8  7  7  5 | N> Not found.
+ 8  7  7  6 | N> Not found.
+ 8  7  7  7 | N> Not found.
+ 8  8  1  1 | Y> Is solvable.
+ 8  8  2  1 | Y> Is solvable.
+ 8  8  2  2 | Y> Is solvable.
+ 8  8  3  1 | Y> Is solvable.
+ 8  8  3  2 | Y> Is solvable.
+ 8  8  3  3 | Y> Is solvable.
+ 8  8  4  1 | Y> Is solvable.
+ 8  8  4  2 | Y> Is solvable.
+ 8  8  4  3 | N> Not found.
+ 8  8  4  4 | Y> Is solvable.
+ 8  8  5  1 | Y> Is solvable.
+ 8  8  5  2 | Y> Is solvable.
+ 8  8  5  3 | Y> Is solvable.
+ 8  8  5  4 | Y> Is solvable.
+ 8  8  5  5 | Y> Is solvable.
+ 8  8  6  1 | Y> Is solvable.
+ 8  8  6  2 | Y> Is solvable.
+ 8  8  6  3 | Y> Is solvable.
+ 8  8  6  4 | Y> Is solvable.
+ 8  8  6  5 | Y> Is solvable.
+ 8  8  6  6 | Y> Is solvable.
+ 8  8  7  1 | Y> Is solvable.
+ 8  8  7  2 | Y> Is solvable.
+ 8  8  7  3 | Y> Is solvable.
+ 8  8  7  4 | Y> Is solvable.
+ 8  8  7  5 | Y> Is solvable.
+ 8  8  7  6 | N> Not found.
+ 8  8  7  7 | N> Not found.
+ 8  8  8  1 | Y> Is solvable.
+ 8  8  8  2 | Y> Is solvable.
+ 8  8  8  3 | Y> Is solvable.
+ 8  8  8  4 | Y> Is solvable.
+ 8  8  8  5 | Y> Is solvable.
+ 8  8  8  6 | Y> Is solvable.
+ 8  8  8  7 | N> Not found.
+ 8  8  8  8 | N> Not found.
+ 9  1  1  1 | N> Not found.
+ 9  2  1  1 | Y> Is solvable.
+ 9  2  2  1 | Y> Is solvable.
+ 9  2  2  2 | Y> Is solvable.
+ 9  3  1  1 | Y> Is solvable.
+ 9  3  2  1 | Y> Is solvable.
+ 9  3  2  2 | Y> Is solvable.
+ 9  3  3  1 | Y> Is solvable.
+ 9  3  3  2 | Y> Is solvable.
+ 9  3  3  3 | Y> Is solvable.
+ 9  4  1  1 | Y> Is solvable.
+ 9  4  2  1 | Y> Is solvable.
+ 9  4  2  2 | Y> Is solvable.
+ 9  4  3  1 | Y> Is solvable.
+ 9  4  3  2 | Y> Is solvable.
+ 9  4  3  3 | Y> Is solvable.
+ 9  4  4  1 | Y> Is solvable.
+ 9  4  4  2 | Y> Is solvable.
+ 9  4  4  3 | Y> Is solvable.
+ 9  4  4  4 | Y> Is solvable.
+ 9  5  1  1 | N> Not found.
+ 9  5  2  1 | Y> Is solvable.
+ 9  5  2  2 | Y> Is solvable.
+ 9  5  3  1 | Y> Is solvable.
+ 9  5  3  2 | Y> Is solvable.
+ 9  5  3  3 | Y> Is solvable.
+ 9  5  4  1 | Y> Is solvable.
+ 9  5  4  2 | Y> Is solvable.
+ 9  5  4  3 | Y> Is solvable.
+ 9  5  4  4 | N> Not found.
+ 9  5  5  1 | Y> Is solvable.
+ 9  5  5  2 | Y> Is solvable.
+ 9  5  5  3 | Y> Is solvable.
+ 9  5  5  4 | Y> Is solvable.
+ 9  5  5  5 | Y> Is solvable.
+ 9  6  1  1 | Y> Is solvable.
+ 9  6  2  1 | Y> Is solvable.
+ 9  6  2  2 | Y> Is solvable.
+ 9  6  3  1 | Y> Is solvable.
+ 9  6  3  2 | Y> Is solvable.
+ 9  6  3  3 | Y> Is solvable.
+ 9  6  4  1 | Y> Is solvable.
+ 9  6  4  2 | Y> Is solvable.
+ 9  6  4  3 | Y> Is solvable.
+ 9  6  4  4 | Y> Is solvable.
+ 9  6  5  1 | Y> Is solvable.
+ 9  6  5  2 | Y> Is solvable.
+ 9  6  5  3 | Y> Is solvable.
+ 9  6  5  4 | Y> Is solvable.
+ 9  6  5  5 | N> Not found.
+ 9  6  6  1 | Y> Is solvable.
+ 9  6  6  2 | Y> Is solvable.
+ 9  6  6  3 | Y> Is solvable.
+ 9  6  6  4 | Y> Is solvable.
+ 9  6  6  5 | Y> Is solvable.
+ 9  6  6  6 | Y> Is solvable.
+ 9  7  1  1 | N> Not found.
+ 9  7  2  1 | Y> Is solvable.
+ 9  7  2  2 | N> Not found.
+ 9  7  3  1 | Y> Is solvable.
+ 9  7  3  2 | Y> Is solvable.
+ 9  7  3  3 | Y> Is solvable.
+ 9  7  4  1 | Y> Is solvable.
+ 9  7  4  2 | Y> Is solvable.
+ 9  7  4  3 | Y> Is solvable.
+ 9  7  4  4 | Y> Is solvable.
+ 9  7  5  1 | Y> Is solvable.
+ 9  7  5  2 | Y> Is solvable.
+ 9  7  5  3 | Y> Is solvable.
+ 9  7  5  4 | Y> Is solvable.
+ 9  7  5  5 | N> Not found.
+ 9  7  6  1 | Y> Is solvable.
+ 9  7  6  2 | Y> Is solvable.
+ 9  7  6  3 | Y> Is solvable.
+ 9  7  6  4 | Y> Is solvable.
+ 9  7  6  5 | Y> Is solvable.
+ 9  7  6  6 | Y> Is solvable.
+ 9  7  7  1 | Y> Is solvable.
+ 9  7  7  2 | N> Not found.
+ 9  7  7  3 | Y> Is solvable.
+ 9  7  7  4 | N> Not found.
+ 9  7  7  5 | Y> Is solvable.
+ 9  7  7  6 | N> Not found.
+ 9  7  7  7 | N> Not found.
+ 9  8  1  1 | N> Not found.
+ 9  8  2  1 | Y> Is solvable.
+ 9  8  2  2 | Y> Is solvable.
+ 9  8  3  1 | Y> Is solvable.
+ 9  8  3  2 | Y> Is solvable.
+ 9  8  3  3 | Y> Is solvable.
+ 9  8  4  1 | Y> Is solvable.
+ 9  8  4  2 | Y> Is solvable.
+ 9  8  4  3 | Y> Is solvable.
+ 9  8  4  4 | Y> Is solvable.
+ 9  8  5  1 | Y> Is solvable.
+ 9  8  5  2 | Y> Is solvable.
+ 9  8  5  3 | Y> Is solvable.
+ 9  8  5  4 | Y> Is solvable.
+ 9  8  5  5 | Y> Is solvable.
+ 9  8  6  1 | Y> Is solvable.
+ 9  8  6  2 | Y> Is solvable.
+ 9  8  6  3 | Y> Is solvable.
+ 9  8  6  4 | Y> Is solvable.
+ 9  8  6  5 | Y> Is solvable.
+ 9  8  6  6 | Y> Is solvable.
+ 9  8  7  1 | Y> Is solvable.
+ 9  8  7  2 | Y> Is solvable.
+ 9  8  7  3 | Y> Is solvable.
+ 9  8  7  4 | Y> Is solvable.
+ 9  8  7  5 | Y> Is solvable.
+ 9  8  7  6 | Y> Is solvable.
+ 9  8  7  7 | N> Not found.
+ 9  8  8  1 | Y> Is solvable.
+ 9  8  8  2 | Y> Is solvable.
+ 9  8  8  3 | Y> Is solvable.
+ 9  8  8  4 | Y> Is solvable.
+ 9  8  8  5 | Y> Is solvable.
+ 9  8  8  6 | Y> Is solvable.
+ 9  8  8  7 | Y> Is solvable.
+ 9  8  8  8 | N> Not found.
+ 9  9  1  1 | N> Not found.
+ 9  9  2  1 | N> Not found.
+ 9  9  2  2 | N> Not found.
+ 9  9  3  1 | Y> Is solvable.
+ 9  9  3  2 | Y> Is solvable.
+ 9  9  3  3 | Y> Is solvable.
+ 9  9  4  1 | N> Not found.
+ 9  9  4  2 | Y> Is solvable.
+ 9  9  4  3 | Y> Is solvable.
+ 9  9  4  4 | N> Not found.
+ 9  9  5  1 | Y> Is solvable.
+ 9  9  5  2 | N> Not found.
+ 9  9  5  3 | Y> Is solvable.
+ 9  9  5  4 | Y> Is solvable.
+ 9  9  5  5 | Y> Is solvable.
+ 9  9  6  1 | Y> Is solvable.
+ 9  9  6  2 | Y> Is solvable.
+ 9  9  6  3 | Y> Is solvable.
+ 9  9  6  4 | Y> Is solvable.
+ 9  9  6  5 | Y> Is solvable.
+ 9  9  6  6 | N> Not found.
+ 9  9  7  1 | Y> Is solvable.
+ 9  9  7  2 | N> Not found.
+ 9  9  7  3 | Y> Is solvable.
+ 9  9  7  4 | Y> Is solvable.
+ 9  9  7  5 | N> Not found.
+ 9  9  7  6 | Y> Is solvable.
+ 9  9  7  7 | N> Not found.
+ 9  9  8  1 | N> Not found.
+ 9  9  8  2 | Y> Is solvable.
+ 9  9  8  3 | Y> Is solvable.
+ 9  9  8  4 | Y> Is solvable.
+ 9  9  8  5 | N> Not found.
+ 9  9  8  6 | Y> Is solvable.
+ 9  9  8  7 | N> Not found.
+ 9  9  8  8 | N> Not found.
+ 9  9  9  1 | N> Not found.
+ 9  9  9  2 | N> Not found.
+ 9  9  9  3 | Y> Is solvable.
+ 9  9  9  4 | N> Not found.
+ 9  9  9  5 | N> Not found.
+ 9  9  9  6 | N> Not found.
+ 9  9  9  7 | N> Not found.
+ 9  9  9  8 | N> Not found.
+ 9  9  9  9 | N> Not found.
+10  1  1  1 | N> Not found.
+10  2  1  1 | Y> Is solvable.
+10  2  2  1 | Y> Is solvable.
+10  2  2  2 | Y> Is solvable.
+10  3  1  1 | Y> Is solvable.
+10  3  2  1 | Y> Is solvable.
+10  3  2  2 | Y> Is solvable.
+10  3  3  1 | Y> Is solvable.
+10  3  3  2 | Y> Is solvable.
+10  3  3  3 | Y> Is solvable.
+10  4  1  1 | Y> Is solvable.
+10  4  2  1 | Y> Is solvable.
+10  4  2  2 | Y> Is solvable.
+10  4  3  1 | Y> Is solvable.
+10  4  3  2 | Y> Is solvable.
+10  4  3  3 | N> Not found.
+10  4  4  1 | Y> Is solvable.
+10  4  4  2 | Y> Is solvable.
+10  4  4  3 | Y> Is solvable.
+10  4  4  4 | Y> Is solvable.
+10  5  1  1 | N> Not found.
+10  5  2  1 | Y> Is solvable.
+10  5  2  2 | Y> Is solvable.
+10  5  3  1 | Y> Is solvable.
+10  5  3  2 | Y> Is solvable.
+10  5  3  3 | Y> Is solvable.
+10  5  4  1 | Y> Is solvable.
+10  5  4  2 | Y> Is solvable.
+10  5  4  3 | Y> Is solvable.
+10  5  4  4 | Y> Is solvable.
+10  5  5  1 | Y> Is solvable.
+10  5  5  2 | Y> Is solvable.
+10  5  5  3 | N> Not found.
+10  5  5  4 | Y> Is solvable.
+10  5  5  5 | N> Not found.
+10  6  1  1 | N> Not found.
+10  6  2  1 | Y> Is solvable.
+10  6  2  2 | Y> Is solvable.
+10  6  3  1 | Y> Is solvable.
+10  6  3  2 | Y> Is solvable.
+10  6  3  3 | Y> Is solvable.
+10  6  4  1 | Y> Is solvable.
+10  6  4  2 | Y> Is solvable.
+10  6  4  3 | Y> Is solvable.
+10  6  4  4 | Y> Is solvable.
+10  6  5  1 | Y> Is solvable.
+10  6  5  2 | Y> Is solvable.
+10  6  5  3 | Y> Is solvable.
+10  6  5  4 | Y> Is solvable.
+10  6  5  5 | N> Not found.
+10  6  6  1 | Y> Is solvable.
+10  6  6  2 | Y> Is solvable.
+10  6  6  3 | Y> Is solvable.
+10  6  6  4 | Y> Is solvable.
+10  6  6  5 | Y> Is solvable.
+10  6  6  6 | Y> Is solvable.
+10  7  1  1 | Y> Is solvable.
+10  7  2  1 | Y> Is solvable.
+10  7  2  2 | Y> Is solvable.
+10  7  3  1 | Y> Is solvable.
+10  7  3  2 | Y> Is solvable.
+10  7  3  3 | N> Not found.
+10  7  4  1 | N> Not found.
+10  7  4  2 | Y> Is solvable.
+10  7  4  3 | Y> Is solvable.
+10  7  4  4 | Y> Is solvable.
+10  7  5  1 | Y> Is solvable.
+10  7  5  2 | Y> Is solvable.
+10  7  5  3 | Y> Is solvable.
+10  7  5  4 | Y> Is solvable.
+10  7  5  5 | Y> Is solvable.
+10  7  6  1 | Y> Is solvable.
+10  7  6  2 | Y> Is solvable.
+10  7  6  3 | Y> Is solvable.
+10  7  6  4 | Y> Is solvable.
+10  7  6  5 | N> Not found.
+10  7  6  6 | Y> Is solvable.
+10  7  7  1 | Y> Is solvable.
+10  7  7  2 | Y> Is solvable.
+10  7  7  3 | Y> Is solvable.
+10  7  7  4 | N> Not found.
+10  7  7  5 | Y> Is solvable.
+10  7  7  6 | Y> Is solvable.
+10  7  7  7 | N> Not found.
+10  8  1  1 | N> Not found.
+10  8  2  1 | Y> Is solvable.
+10  8  2  2 | Y> Is solvable.
+10  8  3  1 | Y> Is solvable.
+10  8  3  2 | Y> Is solvable.
+10  8  3  3 | Y> Is solvable.
+10  8  4  1 | N> Not found.
+10  8  4  2 | Y> Is solvable.
+10  8  4  3 | Y> Is solvable.
+10  8  4  4 | Y> Is solvable.
+10  8  5  1 | Y> Is solvable.
+10  8  5  2 | Y> Is solvable.
+10  8  5  3 | N> Not found.
+10  8  5  4 | Y> Is solvable.
+10  8  5  5 | Y> Is solvable.
+10  8  6  1 | Y> Is solvable.
+10  8  6  2 | Y> Is solvable.
+10  8  6  3 | Y> Is solvable.
+10  8  6  4 | Y> Is solvable.
+10  8  6  5 | Y> Is solvable.
+10  8  6  6 | Y> Is solvable.
+10  8  7  1 | Y> Is solvable.
+10  8  7  2 | N> Not found.
+10  8  7  3 | N> Not found.
+10  8  7  4 | Y> Is solvable.
+10  8  7  5 | Y> Is solvable.
+10  8  7  6 | Y> Is solvable.
+10  8  7  7 | N> Not found.
+10  8  8  1 | Y> Is solvable.
+10  8  8  2 | Y> Is solvable.
+10  8  8  3 | Y> Is solvable.
+10  8  8  4 | Y> Is solvable.
+10  8  8  5 | Y> Is solvable.
+10  8  8  6 | Y> Is solvable.
+10  8  8  7 | Y> Is solvable.
+10  8  8  8 | Y> Is solvable.
+10  9  1  1 | N> Not found.
+10  9  2  1 | N> Not found.
+10  9  2  2 | Y> Is solvable.
+10  9  3  1 | Y> Is solvable.
+10  9  3  2 | Y> Is solvable.
+10  9  3  3 | Y> Is solvable.
+10  9  4  1 | Y> Is solvable.
+10  9  4  2 | Y> Is solvable.
+10  9  4  3 | N> Not found.
+10  9  4  4 | N> Not found.
+10  9  5  1 | Y> Is solvable.
+10  9  5  2 | Y> Is solvable.
+10  9  5  3 | Y> Is solvable.
+10  9  5  4 | Y> Is solvable.
+10  9  5  5 | Y> Is solvable.
+10  9  6  1 | Y> Is solvable.
+10  9  6  2 | Y> Is solvable.
+10  9  6  3 | Y> Is solvable.
+10  9  6  4 | Y> Is solvable.
+10  9  6  5 | Y> Is solvable.
+10  9  6  6 | Y> Is solvable.
+10  9  7  1 | Y> Is solvable.
+10  9  7  2 | Y> Is solvable.
+10  9  7  3 | Y> Is solvable.
+10  9  7  4 | Y> Is solvable.
+10  9  7  5 | Y> Is solvable.
+10  9  7  6 | N> Not found.
+10  9  7  7 | Y> Is solvable.
+10  9  8  1 | N> Not found.
+10  9  8  2 | Y> Is solvable.
+10  9  8  3 | Y> Is solvable.
+10  9  8  4 | Y> Is solvable.
+10  9  8  5 | N> Not found.
+10  9  8  6 | Y> Is solvable.
+10  9  8  7 | Y> Is solvable.
+10  9  8  8 | N> Not found.
+10  9  9  1 | N> Not found.
+10  9  9  2 | N> Not found.
+10  9  9  3 | Y> Is solvable.
+10  9  9  4 | Y> Is solvable.
+10  9  9  5 | N> Not found.
+10  9  9  6 | Y> Is solvable.
+10  9  9  7 | N> Not found.
+10  9  9  8 | N> Not found.
+10  9  9  9 | N> Not found.
+10 10  1  1 | N> Not found.
+10 10  2  1 | N> Not found.
+10 10  2  2 | Y> Is solvable.
+10 10  3  1 | Y> Is solvable.
+10 10  3  2 | Y> Is solvable.
+10 10  3  3 | N> Not found.
+10 10  4  1 | Y> Is solvable.
+10 10  4  2 | Y> Is solvable.
+10 10  4  3 | Y> Is solvable.
+10 10  4  4 | Y> Is solvable.
+10 10  5  1 | Y> Is solvable.
+10 10  5  2 | Y> Is solvable.
+10 10  5  3 | Y> Is solvable.
+10 10  5  4 | Y> Is solvable.
+10 10  5  5 | Y> Is solvable.
+10 10  6  1 | N> Not found.
+10 10  6  2 | Y> Is solvable.
+10 10  6  3 | Y> Is solvable.
+10 10  6  4 | Y> Is solvable.
+10 10  6  5 | Y> Is solvable.
+10 10  6  6 | N> Not found.
+10 10  7  1 | N> Not found.
+10 10  7  2 | Y> Is solvable.
+10 10  7  3 | Y> Is solvable.
+10 10  7  4 | Y> Is solvable.
+10 10  7  5 | Y> Is solvable.
+10 10  7  6 | Y> Is solvable.
+10 10  7  7 | N> Not found.
+10 10  8  1 | N> Not found.
+10 10  8  2 | Y> Is solvable.
+10 10  8  3 | Y> Is solvable.
+10 10  8  4 | Y> Is solvable.
+10 10  8  5 | N> Not found.
+10 10  8  6 | N> Not found.
+10 10  8  7 | Y> Is solvable.
+10 10  8  8 | N> Not found.
+10 10  9  1 | N> Not found.
+10 10  9  2 | Y> Is solvable.
+10 10  9  3 | Y> Is solvable.
+10 10  9  4 | N> Not found.
+10 10  9  5 | Y> Is solvable.
+10 10  9  6 | N> Not found.
+10 10  9  7 | N> Not found.
+10 10  9  8 | N> Not found.
+10 10  9  9 | N> Not found.
+10 10 10  1 | N> Not found.
+10 10 10  2 | N> Not found.
+10 10 10  3 | N> Not found.
+10 10 10  4 | N> Not found.
+10 10 10  5 | N> Not found.
+10 10 10  6 | Y> Is solvable.
+10 10 10  7 | N> Not found.
+10 10 10  8 | N> Not found.
+10 10 10  9 | N> Not found.
+10 10 10 10 | N> Not found.
+11  1  1  1 | Y> Is solvable.
+11  2  1  1 | Y> Is solvable.
+11  2  2  1 | Y> Is solvable.
+11  2  2  2 | Y> Is solvable.
+11  3  1  1 | Y> Is solvable.
+11  3  2  1 | Y> Is solvable.
+11  3  2  2 | Y> Is solvable.
+11  3  3  1 | Y> Is solvable.
+11  3  3  2 | Y> Is solvable.
+11  3  3  3 | Y> Is solvable.
+11  4  1  1 | N> Not found.
+11  4  2  1 | Y> Is solvable.
+11  4  2  2 | Y> Is solvable.
+11  4  3  1 | Y> Is solvable.
+11  4  3  2 | Y> Is solvable.
+11  4  3  3 | Y> Is solvable.
+11  4  4  1 | Y> Is solvable.
+11  4  4  2 | Y> Is solvable.
+11  4  4  3 | Y> Is solvable.
+11  4  4  4 | Y> Is solvable.
+11  5  1  1 | N> Not found.
+11  5  2  1 | N> Not found.
+11  5  2  2 | Y> Is solvable.
+11  5  3  1 | Y> Is solvable.
+11  5  3  2 | Y> Is solvable.
+11  5  3  3 | N> Not found.
+11  5  4  1 | Y> Is solvable.
+11  5  4  2 | Y> Is solvable.
+11  5  4  3 | Y> Is solvable.
+11  5  4  4 | Y> Is solvable.
+11  5  5  1 | Y> Is solvable.
+11  5  5  2 | Y> Is solvable.
+11  5  5  3 | Y> Is solvable.
+11  5  5  4 | N> Not found.
+11  5  5  5 | N> Not found.
+11  6  1  1 | N> Not found.
+11  6  2  1 | Y> Is solvable.
+11  6  2  2 | Y> Is solvable.
+11  6  3  1 | Y> Is solvable.
+11  6  3  2 | Y> Is solvable.
+11  6  3  3 | Y> Is solvable.
+11  6  4  1 | Y> Is solvable.
+11  6  4  2 | Y> Is solvable.
+11  6  4  3 | Y> Is solvable.
+11  6  4  4 | Y> Is solvable.
+11  6  5  1 | Y> Is solvable.
+11  6  5  2 | Y> Is solvable.
+11  6  5  3 | Y> Is solvable.
+11  6  5  4 | Y> Is solvable.
+11  6  5  5 | Y> Is solvable.
+11  6  6  1 | Y> Is solvable.
+11  6  6  2 | Y> Is solvable.
+11  6  6  3 | Y> Is solvable.
+11  6  6  4 | N> Not found.
+11  6  6  5 | N> Not found.
+11  6  6  6 | Y> Is solvable.
+11  7  1  1 | N> Not found.
+11  7  2  1 | Y> Is solvable.
+11  7  2  2 | N> Not found.
+11  7  3  1 | N> Not found.
+11  7  3  2 | Y> Is solvable.
+11  7  3  3 | Y> Is solvable.
+11  7  4  1 | Y> Is solvable.
+11  7  4  2 | Y> Is solvable.
+11  7  4  3 | Y> Is solvable.
+11  7  4  4 | N> Not found.
+11  7  5  1 | Y> Is solvable.
+11  7  5  2 | Y> Is solvable.
+11  7  5  3 | Y> Is solvable.
+11  7  5  4 | Y> Is solvable.
+11  7  5  5 | Y> Is solvable.
+11  7  6  1 | Y> Is solvable.
+11  7  6  2 | Y> Is solvable.
+11  7  6  3 | N> Not found.
+11  7  6  4 | N> Not found.
+11  7  6  5 | N> Not found.
+11  7  6  6 | Y> Is solvable.
+11  7  7  1 | Y> Is solvable.
+11  7  7  2 | Y> Is solvable.
+11  7  7  3 | N> Not found.
+11  7  7  4 | Y> Is solvable.
+11  7  7  5 | Y> Is solvable.
+11  7  7  6 | Y> Is solvable.
+11  7  7  7 | N> Not found.
+11  8  1  1 | N> Not found.
+11  8  2  1 | N> Not found.
+11  8  2  2 | N> Not found.
+11  8  3  1 | Y> Is solvable.
+11  8  3  2 | Y> Is solvable.
+11  8  3  3 | N> Not found.
+11  8  4  1 | Y> Is solvable.
+11  8  4  2 | Y> Is solvable.
+11  8  4  3 | Y> Is solvable.
+11  8  4  4 | Y> Is solvable.
+11  8  5  1 | Y> Is solvable.
+11  8  5  2 | Y> Is solvable.
+11  8  5  3 | Y> Is solvable.
+11  8  5  4 | Y> Is solvable.
+11  8  5  5 | Y> Is solvable.
+11  8  6  1 | Y> Is solvable.
+11  8  6  2 | Y> Is solvable.
+11  8  6  3 | N> Not found.
+11  8  6  4 | N> Not found.
+11  8  6  5 | N> Not found.
+11  8  6  6 | Y> Is solvable.
+11  8  7  1 | Y> Is solvable.
+11  8  7  2 | Y> Is solvable.
+11  8  7  3 | Y> Is solvable.
+11  8  7  4 | Y> Is solvable.
+11  8  7  5 | N> Not found.
+11  8  7  6 | Y> Is solvable.
+11  8  7  7 | Y> Is solvable.
+11  8  8  1 | Y> Is solvable.
+11  8  8  2 | Y> Is solvable.
+11  8  8  3 | Y> Is solvable.
+11  8  8  4 | Y> Is solvable.
+11  8  8  5 | N> Not found.
+11  8  8  6 | Y> Is solvable.
+11  8  8  7 | Y> Is solvable.
+11  8  8  8 | Y> Is solvable.
+11  9  1  1 | N> Not found.
+11  9  2  1 | Y> Is solvable.
+11  9  2  2 | Y> Is solvable.
+11  9  3  1 | Y> Is solvable.
+11  9  3  2 | N> Not found.
+11  9  3  3 | Y> Is solvable.
+11  9  4  1 | Y> Is solvable.
+11  9  4  2 | N> Not found.
+11  9  4  3 | Y> Is solvable.
+11  9  4  4 | Y> Is solvable.
+11  9  5  1 | Y> Is solvable.
+11  9  5  2 | Y> Is solvable.
+11  9  5  3 | N> Not found.
+11  9  5  4 | N> Not found.
+11  9  5  5 | Y> Is solvable.
+11  9  6  1 | N> Not found.
+11  9  6  2 | Y> Is solvable.
+11  9  6  3 | Y> Is solvable.
+11  9  6  4 | N> Not found.
+11  9  6  5 | Y> Is solvable.
+11  9  6  6 | Y> Is solvable.
+11  9  7  1 | Y> Is solvable.
+11  9  7  2 | Y> Is solvable.
+11  9  7  3 | Y> Is solvable.
+11  9  7  4 | Y> Is solvable.
+11  9  7  5 | Y> Is solvable.
+11  9  7  6 | N> Not found.
+11  9  7  7 | N> Not found.
+11  9  8  1 | Y> Is solvable.
+11  9  8  2 | Y> Is solvable.
+11  9  8  3 | Y> Is solvable.
+11  9  8  4 | Y> Is solvable.
+11  9  8  5 | Y> Is solvable.
+11  9  8  6 | Y> Is solvable.
+11  9  8  7 | N> Not found.
+11  9  8  8 | Y> Is solvable.
+11  9  9  1 | N> Not found.
+11  9  9  2 | Y> Is solvable.
+11  9  9  3 | Y> Is solvable.
+11  9  9  4 | N> Not found.
+11  9  9  5 | Y> Is solvable.
+11  9  9  6 | Y> Is solvable.
+11  9  9  7 | N> Not found.
+11  9  9  8 | N> Not found.
+11  9  9  9 | N> Not found.
+11 10  1  1 | N> Not found.
+11 10  2  1 | Y> Is solvable.
+11 10  2  2 | Y> Is solvable.
+11 10  3  1 | Y> Is solvable.
+11 10  3  2 | N> Not found.
+11 10  3  3 | N> Not found.
+11 10  4  1 | Y> Is solvable.
+11 10  4  2 | Y> Is solvable.
+11 10  4  3 | N> Not found.
+11 10  4  4 | N> Not found.
+11 10  5  1 | Y> Is solvable.
+11 10  5  2 | Y> Is solvable.
+11 10  5  3 | Y> Is solvable.
+11 10  5  4 | Y> Is solvable.
+11 10  5  5 | Y> Is solvable.
+11 10  6  1 | N> Not found.
+11 10  6  2 | Y> Is solvable.
+11 10  6  3 | Y> Is solvable.
+11 10  6  4 | Y> Is solvable.
+11 10  6  5 | Y> Is solvable.
+11 10  6  6 | N> Not found.
+11 10  7  1 | N> Not found.
+11 10  7  2 | Y> Is solvable.
+11 10  7  3 | Y> Is solvable.
+11 10  7  4 | Y> Is solvable.
+11 10  7  5 | Y> Is solvable.
+11 10  7  6 | N> Not found.
+11 10  7  7 | N> Not found.
+11 10  8  1 | Y> Is solvable.
+11 10  8  2 | Y> Is solvable.
+11 10  8  3 | Y> Is solvable.
+11 10  8  4 | Y> Is solvable.
+11 10  8  5 | Y> Is solvable.
+11 10  8  6 | Y> Is solvable.
+11 10  8  7 | Y> Is solvable.
+11 10  8  8 | N> Not found.
+11 10  9  1 | N> Not found.
+11 10  9  2 | Y> Is solvable.
+11 10  9  3 | Y> Is solvable.
+11 10  9  4 | Y> Is solvable.
+11 10  9  5 | Y> Is solvable.
+11 10  9  6 | Y> Is solvable.
+11 10  9  7 | Y> Is solvable.
+11 10  9  8 | N> Not found.
+11 10  9  9 | N> Not found.
+11 10 10  1 | N> Not found.
+11 10 10  2 | Y> Is solvable.
+11 10 10  3 | N> Not found.
+11 10 10  4 | Y> Is solvable.
+11 10 10  5 | Y> Is solvable.
+11 10 10  6 | N> Not found.
+11 10 10  7 | Y> Is solvable.
+11 10 10  8 | N> Not found.
+11 10 10  9 | N> Not found.
+11 10 10 10 | N> Not found.
+11 11  1  1 | Y> Is solvable.
+11 11  2  1 | Y> Is solvable.
+11 11  2  2 | Y> Is solvable.
+11 11  3  1 | Y> Is solvable.
+11 11  3  2 | Y> Is solvable.
+11 11  3  3 | N> Not found.
+11 11  4  1 | N> Not found.
+11 11  4  2 | Y> Is solvable.
+11 11  4  3 | N> Not found.
+11 11  4  4 | N> Not found.
+11 11  5  1 | Y> Is solvable.
+11 11  5  2 | N> Not found.
+11 11  5  3 | Y> Is solvable.
+11 11  5  4 | Y> Is solvable.
+11 11  5  5 | Y> Is solvable.
+11 11  6  1 | N> Not found.
+11 11  6  2 | N> Not found.
+11 11  6  3 | Y> Is solvable.
+11 11  6  4 | Y> Is solvable.
+11 11  6  5 | Y> Is solvable.
+11 11  6  6 | N> Not found.
+11 11  7  1 | N> Not found.
+11 11  7  2 | N> Not found.
+11 11  7  3 | Y> Is solvable.
+11 11  7  4 | Y> Is solvable.
+11 11  7  5 | Y> Is solvable.
+11 11  7  6 | Y> Is solvable.
+11 11  7  7 | N> Not found.
+11 11  8  1 | N> Not found.
+11 11  8  2 | Y> Is solvable.
+11 11  8  3 | Y> Is solvable.
+11 11  8  4 | Y> Is solvable.
+11 11  8  5 | N> Not found.
+11 11  8  6 | Y> Is solvable.
+11 11  8  7 | N> Not found.
+11 11  8  8 | N> Not found.
+11 11  9  1 | Y> Is solvable.
+11 11  9  2 | Y> Is solvable.
+11 11  9  3 | Y> Is solvable.
+11 11  9  4 | Y> Is solvable.
+11 11  9  5 | N> Not found.
+11 11  9  6 | N> Not found.
+11 11  9  7 | Y> Is solvable.
+11 11  9  8 | Y> Is solvable.
+11 11  9  9 | N> Not found.
+11 11 10  1 | N> Not found.
+11 11 10  2 | Y> Is solvable.
+11 11 10  3 | N> Not found.
+11 11 10  4 | N> Not found.
+11 11 10  5 | Y> Is solvable.
+11 11 10  6 | N> Not found.
+11 11 10  7 | N> Not found.
+11 11 10  8 | Y> Is solvable.
+11 11 10  9 | N> Not found.
+11 11 10 10 | N> Not found.
+11 11 11  1 | N> Not found.
+11 11 11  2 | Y> Is solvable.
+11 11 11  3 | N> Not found.
+11 11 11  4 | N> Not found.
+11 11 11  5 | N> Not found.
+11 11 11  6 | N> Not found.
+11 11 11  7 | N> Not found.
+11 11 11  8 | N> Not found.
+11 11 11  9 | Y> Is solvable.
+11 11 11 10 | N> Not found.
+11 11 11 11 | N> Not found.
+12  1  1  1 | Y> Is solvable.
+12  2  1  1 | Y> Is solvable.
+12  2  2  1 | Y> Is solvable.
+12  2  2  2 | Y> Is solvable.
+12  3  1  1 | Y> Is solvable.
+12  3  2  1 | Y> Is solvable.
+12  3  2  2 | Y> Is solvable.
+12  3  3  1 | Y> Is solvable.
+12  3  3  2 | Y> Is solvable.
+12  3  3  3 | Y> Is solvable.
+12  4  1  1 | Y> Is solvable.
+12  4  2  1 | Y> Is solvable.
+12  4  2  2 | Y> Is solvable.
+12  4  3  1 | Y> Is solvable.
+12  4  3  2 | Y> Is solvable.
+12  4  3  3 | Y> Is solvable.
+12  4  4  1 | Y> Is solvable.
+12  4  4  2 | Y> Is solvable.
+12  4  4  3 | Y> Is solvable.
+12  4  4  4 | Y> Is solvable.
+12  5  1  1 | N> Not found.
+12  5  2  1 | Y> Is solvable.
+12  5  2  2 | Y> Is solvable.
+12  5  3  1 | Y> Is solvable.
+12  5  3  2 | Y> Is solvable.
+12  5  3  3 | Y> Is solvable.
+12  5  4  1 | Y> Is solvable.
+12  5  4  2 | Y> Is solvable.
+12  5  4  3 | Y> Is solvable.
+12  5  4  4 | Y> Is solvable.
+12  5  5  1 | Y> Is solvable.
+12  5  5  2 | Y> Is solvable.
+12  5  5  3 | Y> Is solvable.
+12  5  5  4 | N> Not found.
+12  5  5  5 | Y> Is solvable.
+12  6  1  1 | Y> Is solvable.
+12  6  2  1 | Y> Is solvable.
+12  6  2  2 | Y> Is solvable.
+12  6  3  1 | Y> Is solvable.
+12  6  3  2 | Y> Is solvable.
+12  6  3  3 | Y> Is solvable.
+12  6  4  1 | Y> Is solvable.
+12  6  4  2 | Y> Is solvable.
+12  6  4  3 | Y> Is solvable.
+12  6  4  4 | Y> Is solvable.
+12  6  5  1 | Y> Is solvable.
+12  6  5  2 | Y> Is solvable.
+12  6  5  3 | Y> Is solvable.
+12  6  5  4 | Y> Is solvable.
+12  6  5  5 | N> Not found.
+12  6  6  1 | Y> Is solvable.
+12  6  6  2 | Y> Is solvable.
+12  6  6  3 | Y> Is solvable.
+12  6  6  4 | Y> Is solvable.
+12  6  6  5 | Y> Is solvable.
+12  6  6  6 | Y> Is solvable.
+12  7  1  1 | N> Not found.
+12  7  2  1 | Y> Is solvable.
+12  7  2  2 | Y> Is solvable.
+12  7  3  1 | Y> Is solvable.
+12  7  3  2 | Y> Is solvable.
+12  7  3  3 | Y> Is solvable.
+12  7  4  1 | Y> Is solvable.
+12  7  4  2 | Y> Is solvable.
+12  7  4  3 | Y> Is solvable.
+12  7  4  4 | Y> Is solvable.
+12  7  5  1 | Y> Is solvable.
+12  7  5  2 | N> Not found.
+12  7  5  3 | Y> Is solvable.
+12  7  5  4 | Y> Is solvable.
+12  7  5  5 | N> Not found.
+12  7  6  1 | Y> Is solvable.
+12  7  6  2 | Y> Is solvable.
+12  7  6  3 | Y> Is solvable.
+12  7  6  4 | Y> Is solvable.
+12  7  6  5 | Y> Is solvable.
+12  7  6  6 | Y> Is solvable.
+12  7  7  1 | Y> Is solvable.
+12  7  7  2 | Y> Is solvable.
+12  7  7  3 | Y> Is solvable.
+12  7  7  4 | N> Not found.
+12  7  7  5 | N> Not found.
+12  7  7  6 | N> Not found.
+12  7  7  7 | Y> Is solvable.
+12  8  1  1 | N> Not found.
+12  8  2  1 | N> Not found.
+12  8  2  2 | Y> Is solvable.
+12  8  3  1 | Y> Is solvable.
+12  8  3  2 | Y> Is solvable.
+12  8  3  3 | Y> Is solvable.
+12  8  4  1 | Y> Is solvable.
+12  8  4  2 | Y> Is solvable.
+12  8  4  3 | Y> Is solvable.
+12  8  4  4 | Y> Is solvable.
+12  8  5  1 | Y> Is solvable.
+12  8  5  2 | Y> Is solvable.
+12  8  5  3 | Y> Is solvable.
+12  8  5  4 | Y> Is solvable.
+12  8  5  5 | Y> Is solvable.
+12  8  6  1 | Y> Is solvable.
+12  8  6  2 | Y> Is solvable.
+12  8  6  3 | Y> Is solvable.
+12  8  6  4 | Y> Is solvable.
+12  8  6  5 | Y> Is solvable.
+12  8  6  6 | Y> Is solvable.
+12  8  7  1 | Y> Is solvable.
+12  8  7  2 | Y> Is solvable.
+12  8  7  3 | Y> Is solvable.
+12  8  7  4 | Y> Is solvable.
+12  8  7  5 | N> Not found.
+12  8  7  6 | Y> Is solvable.
+12  8  7  7 | N> Not found.
+12  8  8  1 | Y> Is solvable.
+12  8  8  2 | Y> Is solvable.
+12  8  8  3 | Y> Is solvable.
+12  8  8  4 | Y> Is solvable.
+12  8  8  5 | N> Not found.
+12  8  8  6 | Y> Is solvable.
+12  8  8  7 | Y> Is solvable.
+12  8  8  8 | Y> Is solvable.
+12  9  1  1 | N> Not found.
+12  9  2  1 | Y> Is solvable.
+12  9  2  2 | Y> Is solvable.
+12  9  3  1 | Y> Is solvable.
+12  9  3  2 | Y> Is solvable.
+12  9  3  3 | Y> Is solvable.
+12  9  4  1 | Y> Is solvable.
+12  9  4  2 | Y> Is solvable.
+12  9  4  3 | Y> Is solvable.
+12  9  4  4 | Y> Is solvable.
+12  9  5  1 | Y> Is solvable.
+12  9  5  2 | Y> Is solvable.
+12  9  5  3 | Y> Is solvable.
+12  9  5  4 | Y> Is solvable.
+12  9  5  5 | N> Not found.
+12  9  6  1 | Y> Is solvable.
+12  9  6  2 | Y> Is solvable.
+12  9  6  3 | Y> Is solvable.
+12  9  6  4 | Y> Is solvable.
+12  9  6  5 | Y> Is solvable.
+12  9  6  6 | Y> Is solvable.
+12  9  7  1 | Y> Is solvable.
+12  9  7  2 | N> Not found.
+12  9  7  3 | Y> Is solvable.
+12  9  7  4 | Y> Is solvable.
+12  9  7  5 | Y> Is solvable.
+12  9  7  6 | Y> Is solvable.
+12  9  7  7 | N> Not found.
+12  9  8  1 | Y> Is solvable.
+12  9  8  2 | Y> Is solvable.
+12  9  8  3 | Y> Is solvable.
+12  9  8  4 | Y> Is solvable.
+12  9  8  5 | Y> Is solvable.
+12  9  8  6 | Y> Is solvable.
+12  9  8  7 | Y> Is solvable.
+12  9  8  8 | Y> Is solvable.
+12  9  9  1 | Y> Is solvable.
+12  9  9  2 | Y> Is solvable.
+12  9  9  3 | Y> Is solvable.
+12  9  9  4 | Y> Is solvable.
+12  9  9  5 | Y> Is solvable.
+12  9  9  6 | Y> Is solvable.
+12  9  9  7 | N> Not found.
+12  9  9  8 | Y> Is solvable.
+12  9  9  9 | Y> Is solvable.
+12 10  1  1 | Y> Is solvable.
+12 10  2  1 | Y> Is solvable.
+12 10  2  2 | N> Not found.
+12 10  3  1 | Y> Is solvable.
+12 10  3  2 | Y> Is solvable.
+12 10  3  3 | N> Not found.
+12 10  4  1 | Y> Is solvable.
+12 10  4  2 | Y> Is solvable.
+12 10  4  3 | Y> Is solvable.
+12 10  4  4 | Y> Is solvable.
+12 10  5  1 | Y> Is solvable.
+12 10  5  2 | Y> Is solvable.
+12 10  5  3 | Y> Is solvable.
+12 10  5  4 | Y> Is solvable.
+12 10  5  5 | N> Not found.
+12 10  6  1 | Y> Is solvable.
+12 10  6  2 | Y> Is solvable.
+12 10  6  3 | Y> Is solvable.
+12 10  6  4 | Y> Is solvable.
+12 10  6  5 | Y> Is solvable.
+12 10  6  6 | Y> Is solvable.
+12 10  7  1 | Y> Is solvable.
+12 10  7  2 | Y> Is solvable.
+12 10  7  3 | N> Not found.
+12 10  7  4 | Y> Is solvable.
+12 10  7  5 | Y> Is solvable.
+12 10  7  6 | Y> Is solvable.
+12 10  7  7 | N> Not found.
+12 10  8  1 | Y> Is solvable.
+12 10  8  2 | Y> Is solvable.
+12 10  8  3 | Y> Is solvable.
+12 10  8  4 | Y> Is solvable.
+12 10  8  5 | Y> Is solvable.
+12 10  8  6 | Y> Is solvable.
+12 10  8  7 | N> Not found.
+12 10  8  8 | Y> Is solvable.
+12 10  9  1 | Y> Is solvable.
+12 10  9  2 | Y> Is solvable.
+12 10  9  3 | Y> Is solvable.
+12 10  9  4 | Y> Is solvable.
+12 10  9  5 | N> Not found.
+12 10  9  6 | Y> Is solvable.
+12 10  9  7 | Y> Is solvable.
+12 10  9  8 | Y> Is solvable.
+12 10  9  9 | N> Not found.
+12 10 10  1 | Y> Is solvable.
+12 10 10  2 | Y> Is solvable.
+12 10 10  3 | Y> Is solvable.
+12 10 10  4 | Y> Is solvable.
+12 10 10  5 | Y> Is solvable.
+12 10 10  6 | N> Not found.
+12 10 10  7 | Y> Is solvable.
+12 10 10  8 | Y> Is solvable.
+12 10 10  9 | N> Not found.
+12 10 10 10 | Y> Is solvable.
+12 11  1  1 | Y> Is solvable.
+12 11  2  1 | Y> Is solvable.
+12 11  2  2 | Y> Is solvable.
+12 11  3  1 | Y> Is solvable.
+12 11  3  2 | Y> Is solvable.
+12 11  3  3 | Y> Is solvable.
+12 11  4  1 | N> Not found.
+12 11  4  2 | Y> Is solvable.
+12 11  4  3 | Y> Is solvable.
+12 11  4  4 | Y> Is solvable.
+12 11  5  1 | Y> Is solvable.
+12 11  5  2 | Y> Is solvable.
+12 11  5  3 | Y> Is solvable.
+12 11  5  4 | Y> Is solvable.
+12 11  5  5 | Y> Is solvable.
+12 11  6  1 | Y> Is solvable.
+12 11  6  2 | Y> Is solvable.
+12 11  6  3 | Y> Is solvable.
+12 11  6  4 | Y> Is solvable.
+12 11  6  5 | Y> Is solvable.
+12 11  6  6 | Y> Is solvable.
+12 11  7  1 | N> Not found.
+12 11  7  2 | Y> Is solvable.
+12 11  7  3 | Y> Is solvable.
+12 11  7  4 | Y> Is solvable.
+12 11  7  5 | N> Not found.
+12 11  7  6 | Y> Is solvable.
+12 11  7  7 | Y> Is solvable.
+12 11  8  1 | Y> Is solvable.
+12 11  8  2 | Y> Is solvable.
+12 11  8  3 | Y> Is solvable.
+12 11  8  4 | Y> Is solvable.
+12 11  8  5 | Y> Is solvable.
+12 11  8  6 | Y> Is solvable.
+12 11  8  7 | Y> Is solvable.
+12 11  8  8 | Y> Is solvable.
+12 11  9  1 | Y> Is solvable.
+12 11  9  2 | N> Not found.
+12 11  9  3 | Y> Is solvable.
+12 11  9  4 | Y> Is solvable.
+12 11  9  5 | N> Not found.
+12 11  9  6 | Y> Is solvable.
+12 11  9  7 | Y> Is solvable.
+12 11  9  8 | Y> Is solvable.
+12 11  9  9 | Y> Is solvable.
+12 11 10  1 | Y> Is solvable.
+12 11 10  2 | Y> Is solvable.
+12 11 10  3 | Y> Is solvable.
+12 11 10  4 | Y> Is solvable.
+12 11 10  5 | N> Not found.
+12 11 10  6 | Y> Is solvable.
+12 11 10  7 | N> Not found.
+12 11 10  8 | N> Not found.
+12 11 10  9 | Y> Is solvable.
+12 11 10 10 | Y> Is solvable.
+12 11 11  1 | Y> Is solvable.
+12 11 11  2 | Y> Is solvable.
+12 11 11  3 | Y> Is solvable.
+12 11 11  4 | N> Not found.
+12 11 11  5 | N> Not found.
+12 11 11  6 | Y> Is solvable.
+12 11 11  7 | N> Not found.
+12 11 11  8 | N> Not found.
+12 11 11  9 | N> Not found.
+12 11 11 10 | Y> Is solvable.
+12 11 11 11 | Y> Is solvable.
+12 12  1  1 | Y> Is solvable.
+12 12  2  1 | Y> Is solvable.
+12 12  2  2 | Y> Is solvable.
+12 12  3  1 | Y> Is solvable.
+12 12  3  2 | Y> Is solvable.
+12 12  3  3 | Y> Is solvable.
+12 12  4  1 | Y> Is solvable.
+12 12  4  2 | Y> Is solvable.
+12 12  4  3 | Y> Is solvable.
+12 12  4  4 | Y> Is solvable.
+12 12  5  1 | Y> Is solvable.
+12 12  5  2 | Y> Is solvable.
+12 12  5  3 | Y> Is solvable.
+12 12  5  4 | Y> Is solvable.
+12 12  5  5 | Y> Is solvable.
+12 12  6  1 | Y> Is solvable.
+12 12  6  2 | Y> Is solvable.
+12 12  6  3 | Y> Is solvable.
+12 12  6  4 | Y> Is solvable.
+12 12  6  5 | Y> Is solvable.
+12 12  6  6 | Y> Is solvable.
+12 12  7  1 | Y> Is solvable.
+12 12  7  2 | Y> Is solvable.
+12 12  7  3 | Y> Is solvable.
+12 12  7  4 | Y> Is solvable.
+12 12  7  5 | Y> Is solvable.
+12 12  7  6 | Y> Is solvable.
+12 12  7  7 | Y> Is solvable.
+12 12  8  1 | Y> Is solvable.
+12 12  8  2 | Y> Is solvable.
+12 12  8  3 | Y> Is solvable.
+12 12  8  4 | Y> Is solvable.
+12 12  8  5 | Y> Is solvable.
+12 12  8  6 | Y> Is solvable.
+12 12  8  7 | Y> Is solvable.
+12 12  8  8 | Y> Is solvable.
+12 12  9  1 | Y> Is solvable.
+12 12  9  2 | N> Not found.
+12 12  9  3 | Y> Is solvable.
+12 12  9  4 | Y> Is solvable.
+12 12  9  5 | Y> Is solvable.
+12 12  9  6 | Y> Is solvable.
+12 12  9  7 | Y> Is solvable.
+12 12  9  8 | Y> Is solvable.
+12 12  9  9 | Y> Is solvable.
+12 12 10  1 | Y> Is solvable.
+12 12 10  2 | N> Not found.
+12 12 10  3 | N> Not found.
+12 12 10  4 | Y> Is solvable.
+12 12 10  5 | N> Not found.
+12 12 10  6 | Y> Is solvable.
+12 12 10  7 | Y> Is solvable.
+12 12 10  8 | Y> Is solvable.
+12 12 10  9 | Y> Is solvable.
+12 12 10 10 | Y> Is solvable.
+12 12 11  1 | Y> Is solvable.
+12 12 11  2 | Y> Is solvable.
+12 12 11  3 | Y> Is solvable.
+12 12 11  4 | N> Not found.
+12 12 11  5 | Y> Is solvable.
+12 12 11  6 | Y> Is solvable.
+12 12 11  7 | N> Not found.
+12 12 11  8 | Y> Is solvable.
+12 12 11  9 | Y> Is solvable.
+12 12 11 10 | Y> Is solvable.
+12 12 11 11 | Y> Is solvable.
+12 12 12  1 | Y> Is solvable.
+12 12 12  2 | Y> Is solvable.
+12 12 12  3 | Y> Is solvable.
+12 12 12  4 | Y> Is solvable.
+12 12 12  5 | N> Not found.
+12 12 12  6 | Y> Is solvable.
+12 12 12  7 | N> Not found.
+12 12 12  8 | N> Not found.
+12 12 12  9 | Y> Is solvable.
+12 12 12 10 | Y> Is solvable.
+12 12 12 11 | Y> Is solvable.
+12 12 12 12 | Y> Is solvable.
+13  1  1  1 | Y> Is solvable.
+13  2  1  1 | Y> Is solvable.
+13  2  2  1 | Y> Is solvable.
+13  2  2  2 | Y> Is solvable.
+13  3  1  1 | Y> Is solvable.
+13  3  2  1 | Y> Is solvable.
+13  3  2  2 | Y> Is solvable.
+13  3  3  1 | N> Not found.
+13  3  3  2 | Y> Is solvable.
+13  3  3  3 | N> Not found.
+13  4  1  1 | N> Not found.
+13  4  2  1 | Y> Is solvable.
+13  4  2  2 | Y> Is solvable.
+13  4  3  1 | Y> Is solvable.
+13  4  3  2 | Y> Is solvable.
+13  4  3  3 | Y> Is solvable.
+13  4  4  1 | N> Not found.
+13  4  4  2 | Y> Is solvable.
+13  4  4  3 | Y> Is solvable.
+13  4  4  4 | N> Not found.
+13  5  1  1 | N> Not found.
+13  5  2  1 | Y> Is solvable.
+13  5  2  2 | N> Not found.
+13  5  3  1 | Y> Is solvable.
+13  5  3  2 | Y> Is solvable.
+13  5  3  3 | Y> Is solvable.
+13  5  4  1 | Y> Is solvable.
+13  5  4  2 | Y> Is solvable.
+13  5  4  3 | Y> Is solvable.
+13  5  4  4 | Y> Is solvable.
+13  5  5  1 | Y> Is solvable.
+13  5  5  2 | Y> Is solvable.
+13  5  5  3 | N> Not found.
+13  5  5  4 | N> Not found.
+13  5  5  5 | N> Not found.
+13  6  1  1 | N> Not found.
+13  6  2  1 | Y> Is solvable.
+13  6  2  2 | Y> Is solvable.
+13  6  3  1 | Y> Is solvable.
+13  6  3  2 | Y> Is solvable.
+13  6  3  3 | Y> Is solvable.
+13  6  4  1 | Y> Is solvable.
+13  6  4  2 | Y> Is solvable.
+13  6  4  3 | Y> Is solvable.
+13  6  4  4 | Y> Is solvable.
+13  6  5  1 | Y> Is solvable.
+13  6  5  2 | Y> Is solvable.
+13  6  5  3 | Y> Is solvable.
+13  6  5  4 | Y> Is solvable.
+13  6  5  5 | N> Not found.
+13  6  6  1 | Y> Is solvable.
+13  6  6  2 | Y> Is solvable.
+13  6  6  3 | Y> Is solvable.
+13  6  6  4 | N> Not found.
+13  6  6  5 | N> Not found.
+13  6  6  6 | N> Not found.
+13  7  1  1 | N> Not found.
+13  7  2  1 | N> Not found.
+13  7  2  2 | Y> Is solvable.
+13  7  3  1 | Y> Is solvable.
+13  7  3  2 | Y> Is solvable.
+13  7  3  3 | Y> Is solvable.
+13  7  4  1 | Y> Is solvable.
+13  7  4  2 | N> Not found.
+13  7  4  3 | N> Not found.
+13  7  4  4 | Y> Is solvable.
+13  7  5  1 | Y> Is solvable.
+13  7  5  2 | Y> Is solvable.
+13  7  5  3 | Y> Is solvable.
+13  7  5  4 | Y> Is solvable.
+13  7  5  5 | N> Not found.
+13  7  6  1 | N> Not found.
+13  7  6  2 | Y> Is solvable.
+13  7  6  3 | Y> Is solvable.
+13  7  6  4 | N> Not found.
+13  7  6  5 | Y> Is solvable.
+13  7  6  6 | N> Not found.
+13  7  7  1 | N> Not found.
+13  7  7  2 | Y> Is solvable.
+13  7  7  3 | Y> Is solvable.
+13  7  7  4 | N> Not found.
+13  7  7  5 | N> Not found.
+13  7  7  6 | N> Not found.
+13  7  7  7 | N> Not found.
+13  8  1  1 | N> Not found.
+13  8  2  1 | Y> Is solvable.
+13  8  2  2 | N> Not found.
+13  8  3  1 | Y> Is solvable.
+13  8  3  2 | Y> Is solvable.
+13  8  3  3 | Y> Is solvable.
+13  8  4  1 | Y> Is solvable.
+13  8  4  2 | Y> Is solvable.
+13  8  4  3 | Y> Is solvable.
+13  8  4  4 | Y> Is solvable.
+13  8  5  1 | Y> Is solvable.
+13  8  5  2 | Y> Is solvable.
+13  8  5  3 | Y> Is solvable.
+13  8  5  4 | Y> Is solvable.
+13  8  5  5 | Y> Is solvable.
+13  8  6  1 | Y> Is solvable.
+13  8  6  2 | Y> Is solvable.
+13  8  6  3 | Y> Is solvable.
+13  8  6  4 | Y> Is solvable.
+13  8  6  5 | Y> Is solvable.
+13  8  6  6 | Y> Is solvable.
+13  8  7  1 | N> Not found.
+13  8  7  2 | Y> Is solvable.
+13  8  7  3 | Y> Is solvable.
+13  8  7  4 | Y> Is solvable.
+13  8  7  5 | N> Not found.
+13  8  7  6 | N> Not found.
+13  8  7  7 | N> Not found.
+13  8  8  1 | N> Not found.
+13  8  8  2 | Y> Is solvable.
+13  8  8  3 | N> Not found.
+13  8  8  4 | Y> Is solvable.
+13  8  8  5 | Y> Is solvable.
+13  8  8  6 | N> Not found.
+13  8  8  7 | Y> Is solvable.
+13  8  8  8 | Y> Is solvable.
+13  9  1  1 | Y> Is solvable.
+13  9  2  1 | Y> Is solvable.
+13  9  2  2 | N> Not found.
+13  9  3  1 | Y> Is solvable.
+13  9  3  2 | Y> Is solvable.
+13  9  3  3 | Y> Is solvable.
+13  9  4  1 | Y> Is solvable.
+13  9  4  2 | Y> Is solvable.
+13  9  4  3 | Y> Is solvable.
+13  9  4  4 | N> Not found.
+13  9  5  1 | Y> Is solvable.
+13  9  5  2 | N> Not found.
+13  9  5  3 | Y> Is solvable.
+13  9  5  4 | Y> Is solvable.
+13  9  5  5 | N> Not found.
+13  9  6  1 | Y> Is solvable.
+13  9  6  2 | N> Not found.
+13  9  6  3 | Y> Is solvable.
+13  9  6  4 | Y> Is solvable.
+13  9  6  5 | Y> Is solvable.
+13  9  6  6 | Y> Is solvable.
+13  9  7  1 | Y> Is solvable.
+13  9  7  2 | Y> Is solvable.
+13  9  7  3 | Y> Is solvable.
+13  9  7  4 | Y> Is solvable.
+13  9  7  5 | Y> Is solvable.
+13  9  7  6 | N> Not found.
+13  9  7  7 | N> Not found.
+13  9  8  1 | Y> Is solvable.
+13  9  8  2 | Y> Is solvable.
+13  9  8  3 | Y> Is solvable.
+13  9  8  4 | Y> Is solvable.
+13  9  8  5 | Y> Is solvable.
+13  9  8  6 | Y> Is solvable.
+13  9  8  7 | Y> Is solvable.
+13  9  8  8 | Y> Is solvable.
+13  9  9  1 | N> Not found.
+13  9  9  2 | Y> Is solvable.
+13  9  9  3 | Y> Is solvable.
+13  9  9  4 | N> Not found.
+13  9  9  5 | N> Not found.
+13  9  9  6 | N> Not found.
+13  9  9  7 | Y> Is solvable.
+13  9  9  8 | N> Not found.
+13  9  9  9 | N> Not found.
+13 10  1  1 | Y> Is solvable.
+13 10  2  1 | Y> Is solvable.
+13 10  2  2 | Y> Is solvable.
+13 10  3  1 | N> Not found.
+13 10  3  2 | Y> Is solvable.
+13 10  3  3 | Y> Is solvable.
+13 10  4  1 | N> Not found.
+13 10  4  2 | Y> Is solvable.
+13 10  4  3 | Y> Is solvable.
+13 10  4  4 | Y> Is solvable.
+13 10  5  1 | Y> Is solvable.
+13 10  5  2 | Y> Is solvable.
+13 10  5  3 | Y> Is solvable.
+13 10  5  4 | Y> Is solvable.
+13 10  5  5 | Y> Is solvable.
+13 10  6  1 | Y> Is solvable.
+13 10  6  2 | Y> Is solvable.
+13 10  6  3 | N> Not found.
+13 10  6  4 | N> Not found.
+13 10  6  5 | Y> Is solvable.
+13 10  6  6 | Y> Is solvable.
+13 10  7  1 | Y> Is solvable.
+13 10  7  2 | N> Not found.
+13 10  7  3 | Y> Is solvable.
+13 10  7  4 | N> Not found.
+13 10  7  5 | Y> Is solvable.
+13 10  7  6 | Y> Is solvable.
+13 10  7  7 | Y> Is solvable.
+13 10  8  1 | Y> Is solvable.
+13 10  8  2 | Y> Is solvable.
+13 10  8  3 | N> Not found.
+13 10  8  4 | N> Not found.
+13 10  8  5 | N> Not found.
+13 10  8  6 | Y> Is solvable.
+13 10  8  7 | Y> Is solvable.
+13 10  8  8 | Y> Is solvable.
+13 10  9  1 | Y> Is solvable.
+13 10  9  2 | Y> Is solvable.
+13 10  9  3 | Y> Is solvable.
+13 10  9  4 | Y> Is solvable.
+13 10  9  5 | Y> Is solvable.
+13 10  9  6 | N> Not found.
+13 10  9  7 | N> Not found.
+13 10  9  8 | Y> Is solvable.
+13 10  9  9 | Y> Is solvable.
+13 10 10  1 | N> Not found.
+13 10 10  2 | Y> Is solvable.
+13 10 10  3 | N> Not found.
+13 10 10  4 | N> Not found.
+13 10 10  5 | Y> Is solvable.
+13 10 10  6 | Y> Is solvable.
+13 10 10  7 | N> Not found.
+13 10 10  8 | N> Not found.
+13 10 10  9 | Y> Is solvable.
+13 10 10 10 | Y> Is solvable.
+13 11  1  1 | Y> Is solvable.
+13 11  2  1 | Y> Is solvable.
+13 11  2  2 | Y> Is solvable.
+13 11  3  1 | N> Not found.
+13 11  3  2 | Y> Is solvable.
+13 11  3  3 | Y> Is solvable.
+13 11  4  1 | N> Not found.
+13 11  4  2 | N> Not found.
+13 11  4  3 | Y> Is solvable.
+13 11  4  4 | Y> Is solvable.
+13 11  5  1 | N> Not found.
+13 11  5  2 | N> Not found.
+13 11  5  3 | N> Not found.
+13 11  5  4 | Y> Is solvable.
+13 11  5  5 | Y> Is solvable.
+13 11  6  1 | Y> Is solvable.
+13 11  6  2 | Y> Is solvable.
+13 11  6  3 | Y> Is solvable.
+13 11  6  4 | N> Not found.
+13 11  6  5 | Y> Is solvable.
+13 11  6  6 | Y> Is solvable.
+13 11  7  1 | N> Not found.
+13 11  7  2 | N> Not found.
+13 11  7  3 | N> Not found.
+13 11  7  4 | Y> Is solvable.
+13 11  7  5 | Y> Is solvable.
+13 11  7  6 | Y> Is solvable.
+13 11  7  7 | Y> Is solvable.
+13 11  8  1 | Y> Is solvable.
+13 11  8  2 | N> Not found.
+13 11  8  3 | N> Not found.
+13 11  8  4 | Y> Is solvable.
+13 11  8  5 | Y> Is solvable.
+13 11  8  6 | Y> Is solvable.
+13 11  8  7 | Y> Is solvable.
+13 11  8  8 | Y> Is solvable.
+13 11  9  1 | Y> Is solvable.
+13 11  9  2 | Y> Is solvable.
+13 11  9  3 | Y> Is solvable.
+13 11  9  4 | N> Not found.
+13 11  9  5 | Y> Is solvable.
+13 11  9  6 | Y> Is solvable.
+13 11  9  7 | N> Not found.
+13 11  9  8 | Y> Is solvable.
+13 11  9  9 | Y> Is solvable.
+13 11 10  1 | N> Not found.
+13 11 10  2 | Y> Is solvable.
+13 11 10  3 | Y> Is solvable.
+13 11 10  4 | Y> Is solvable.
+13 11 10  5 | N> Not found.
+13 11 10  6 | N> Not found.
+13 11 10  7 | Y> Is solvable.
+13 11 10  8 | N> Not found.
+13 11 10  9 | Y> Is solvable.
+13 11 10 10 | Y> Is solvable.
+13 11 11  1 | Y> Is solvable.
+13 11 11  2 | Y> Is solvable.
+13 11 11  3 | N> Not found.
+13 11 11  4 | N> Not found.
+13 11 11  5 | N> Not found.
+13 11 11  6 | N> Not found.
+13 11 11  7 | N> Not found.
+13 11 11  8 | N> Not found.
+13 11 11  9 | N> Not found.
+13 11 11 10 | Y> Is solvable.
+13 11 11 11 | Y> Is solvable.
+13 12  1  1 | Y> Is solvable.
+13 12  2  1 | Y> Is solvable.
+13 12  2  2 | Y> Is solvable.
+13 12  3  1 | Y> Is solvable.
+13 12  3  2 | Y> Is solvable.
+13 12  3  3 | Y> Is solvable.
+13 12  4  1 | N> Not found.
+13 12  4  2 | N> Not found.
+13 12  4  3 | Y> Is solvable.
+13 12  4  4 | Y> Is solvable.
+13 12  5  1 | N> Not found.
+13 12  5  2 | Y> Is solvable.
+13 12  5  3 | Y> Is solvable.
+13 12  5  4 | Y> Is solvable.
+13 12  5  5 | Y> Is solvable.
+13 12  6  1 | Y> Is solvable.
+13 12  6  2 | Y> Is solvable.
+13 12  6  3 | Y> Is solvable.
+13 12  6  4 | Y> Is solvable.
+13 12  6  5 | Y> Is solvable.
+13 12  6  6 | Y> Is solvable.
+13 12  7  1 | Y> Is solvable.
+13 12  7  2 | Y> Is solvable.
+13 12  7  3 | Y> Is solvable.
+13 12  7  4 | Y> Is solvable.
+13 12  7  5 | N> Not found.
+13 12  7  6 | Y> Is solvable.
+13 12  7  7 | Y> Is solvable.
+13 12  8  1 | N> Not found.
+13 12  8  2 | Y> Is solvable.
+13 12  8  3 | Y> Is solvable.
+13 12  8  4 | Y> Is solvable.
+13 12  8  5 | N> Not found.
+13 12  8  6 | N> Not found.
+13 12  8  7 | Y> Is solvable.
+13 12  8  8 | Y> Is solvable.
+13 12  9  1 | N> Not found.
+13 12  9  2 | Y> Is solvable.
+13 12  9  3 | Y> Is solvable.
+13 12  9  4 | N> Not found.
+13 12  9  5 | Y> Is solvable.
+13 12  9  6 | Y> Is solvable.
+13 12  9  7 | N> Not found.
+13 12  9  8 | Y> Is solvable.
+13 12  9  9 | Y> Is solvable.
+13 12 10  1 | Y> Is solvable.
+13 12 10  2 | Y> Is solvable.
+13 12 10  3 | N> Not found.
+13 12 10  4 | Y> Is solvable.
+13 12 10  5 | Y> Is solvable.
+13 12 10  6 | Y> Is solvable.
+13 12 10  7 | Y> Is solvable.
+13 12 10  8 | Y> Is solvable.
+13 12 10  9 | Y> Is solvable.
+13 12 10 10 | Y> Is solvable.
+13 12 11  1 | Y> Is solvable.
+13 12 11  2 | Y> Is solvable.
+13 12 11  3 | N> Not found.
+13 12 11  4 | Y> Is solvable.
+13 12 11  5 | N> Not found.
+13 12 11  6 | Y> Is solvable.
+13 12 11  7 | N> Not found.
+13 12 11  8 | N> Not found.
+13 12 11  9 | Y> Is solvable.
+13 12 11 10 | Y> Is solvable.
+13 12 11 11 | Y> Is solvable.
+13 12 12  1 | Y> Is solvable.
+13 12 12  2 | Y> Is solvable.
+13 12 12  3 | Y> Is solvable.
+13 12 12  4 | N> Not found.
+13 12 12  5 | N> Not found.
+13 12 12  6 | Y> Is solvable.
+13 12 12  7 | Y> Is solvable.
+13 12 12  8 | N> Not found.
+13 12 12  9 | N> Not found.
+13 12 12 10 | Y> Is solvable.
+13 12 12 11 | Y> Is solvable.
+13 12 12 12 | Y> Is solvable.
+13 13  1  1 | Y> Is solvable.
+13 13  2  1 | Y> Is solvable.
+13 13  2  2 | Y> Is solvable.
+13 13  3  1 | Y> Is solvable.
+13 13  3  2 | Y> Is solvable.
+13 13  3  3 | N> Not found.
+13 13  4  1 | N> Not found.
+13 13  4  2 | Y> Is solvable.
+13 13  4  3 | N> Not found.
+13 13  4  4 | N> Not found.
+13 13  5  1 | N> Not found.
+13 13  5  2 | N> Not found.
+13 13  5  3 | Y> Is solvable.
+13 13  5  4 | Y> Is solvable.
+13 13  5  5 | Y> Is solvable.
+13 13  6  1 | N> Not found.
+13 13  6  2 | N> Not found.
+13 13  6  3 | Y> Is solvable.
+13 13  6  4 | Y> Is solvable.
+13 13  6  5 | Y> Is solvable.
+13 13  6  6 | N> Not found.
+13 13  7  1 | Y> Is solvable.
+13 13  7  2 | N> Not found.
+13 13  7  3 | Y> Is solvable.
+13 13  7  4 | Y> Is solvable.
+13 13  7  5 | Y> Is solvable.
+13 13  7  6 | N> Not found.
+13 13  7  7 | N> Not found.
+13 13  8  1 | N> Not found.
+13 13  8  2 | Y> Is solvable.
+13 13  8  3 | Y> Is solvable.
+13 13  8  4 | Y> Is solvable.
+13 13  8  5 | N> Not found.
+13 13  8  6 | Y> Is solvable.
+13 13  8  7 | N> Not found.
+13 13  8  8 | N> Not found.
+13 13  9  1 | N> Not found.
+13 13  9  2 | Y> Is solvable.
+13 13  9  3 | Y> Is solvable.
+13 13  9  4 | N> Not found.
+13 13  9  5 | N> Not found.
+13 13  9  6 | N> Not found.
+13 13  9  7 | Y> Is solvable.
+13 13  9  8 | N> Not found.
+13 13  9  9 | N> Not found.
+13 13 10  1 | N> Not found.
+13 13 10  2 | N> Not found.
+13 13 10  3 | N> Not found.
+13 13 10  4 | N> Not found.
+13 13 10  5 | Y> Is solvable.
+13 13 10  6 | N> Not found.
+13 13 10  7 | N> Not found.
+13 13 10  8 | Y> Is solvable.
+13 13 10  9 | N> Not found.
+13 13 10 10 | N> Not found.
+13 13 11  1 | Y> Is solvable.
+13 13 11  2 | Y> Is solvable.
+13 13 11  3 | N> Not found.
+13 13 11  4 | N> Not found.
+13 13 11  5 | N> Not found.
+13 13 11  6 | N> Not found.
+13 13 11  7 | N> Not found.
+13 13 11  8 | N> Not found.
+13 13 11  9 | Y> Is solvable.
+13 13 11 10 | N> Not found.
+13 13 11 11 | N> Not found.
+13 13 12  1 | Y> Is solvable.
+13 13 12  2 | Y> Is solvable.
+13 13 12  3 | Y> Is solvable.
+13 13 12  4 | N> Not found.
+13 13 12  5 | N> Not found.
+13 13 12  6 | Y> Is solvable.
+13 13 12  7 | N> Not found.
+13 13 12  8 | N> Not found.
+13 13 12  9 | N> Not found.
+13 13 12 10 | Y> Is solvable.
+13 13 12 11 | Y> Is solvable.
+13 13 12 12 | Y> Is solvable.
+13 13 13  1 | N> Not found.
+13 13 13  2 | Y> Is solvable.
+13 13 13  3 | N> Not found.
+13 13 13  4 | N> Not found.
+13 13 13  5 | N> Not found.
+13 13 13  6 | N> Not found.
+13 13 13  7 | N> Not found.
+13 13 13  8 | N> Not found.
+13 13 13  9 | N> Not found.
+13 13 13 10 | Y> Is solvable.
+13 13 13 11 | Y> Is solvable.
+13 13 13 12 | Y> Is solvable.
+13 13 13 13 | N> Not found.
+Done.
