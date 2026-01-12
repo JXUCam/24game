@@ -226,7 +226,7 @@ int main(int argc, char *argv[])
             std::exit(-1);
         }
         
-        Operand x[4];
+        std::array<Operand, 4> x;
         for (int i{0}; i<4; ++i) { x[i].numerator = numbers[i]; x[i].textPrint = std::to_string(numbers[i]); }
        
         bool foundSome{ false };
